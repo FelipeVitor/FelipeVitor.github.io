@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Iglesia';
+    src: url('Iglesia-Light.woff2') format('woff2'),
+        url('Iglesia-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
